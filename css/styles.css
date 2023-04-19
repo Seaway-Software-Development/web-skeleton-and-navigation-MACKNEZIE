@@ -30,6 +30,6 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    text-decoration: wavy;
+    text-decoration: dotted;
     color: #F4D35E;
 }
