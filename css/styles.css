@@ -9,18 +9,28 @@ F4D35E - Gold */
     border: 0;
 }
 
+html {
+    background-color: #FAF0CA;
+}
+
+body {
+
+}
+
 blockquote {
     text-align: center;
-    font-size: 120%;
+    font-size: 145%;
 }
 
 nav ul {
     text-decoration: none;
-    font-size: 115%;
+    font-size: 130%;
+    text-align: center;
 }
 
 nav ul li {
     display: inline-block;
+    text-align: center;
 }
 
 nav ul li a {
@@ -31,5 +41,6 @@ nav ul li a {
 
 nav ul li a:hover {
     text-decoration: dotted;
+    text-align: center;
     color: #F4D35E;
 }
