@@ -40,7 +40,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-    text-decoration: dotted;
+    text-decoration: line-through;
     text-align: center;
     color: #F4D35E;
 }
