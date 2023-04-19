@@ -13,9 +13,9 @@ html {
     background-color: #FAF0CA;
 }
 
-blockquote {
+blockquote h1 {
     text-align: center;
-    
+    color: #0D3B66;
     font-size: 150%;
 }
 
