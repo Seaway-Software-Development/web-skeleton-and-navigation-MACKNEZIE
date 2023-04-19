@@ -36,11 +36,11 @@ nav ul li {
 nav ul li a {
     text-decoration: none;
     text-align: center;
-    color: #0D3B66;
+    color: #F4D35E;
 }
 
 nav ul li a:hover {
     text-decoration: line-through;
     text-align: center;
-    color: #F4D35E;
+    color: #0D3B66;
 }
