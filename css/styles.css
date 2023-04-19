@@ -13,16 +13,13 @@ html {
     background-color: #FAF0CA;
 }
 
-body {
-
-}
-
 blockquote {
     text-align: center;
-    color: #0D3B66;
+    
     font-size: 150%;
 }
 
+/* Nav */
 nav ul {
     text-decoration: none;
     font-size: 155%;
@@ -45,3 +42,29 @@ nav ul li a:hover {
     text-align: center;
     color: #0D3B66;
 }
+/* end nav */
+/* Footer nav */
+
+.fnav nav ul {
+    text-decoration: none;
+    font-size: 155%;
+    text-align: center;
+}
+
+.fnav nav ul li {
+    display: inline-block;
+    text-align: center;
+}
+
+.fnav nav ul li a {
+    text-decoration: none;
+    text-align: center;
+    color: #F4D35E;
+}
+
+.fnav nav ul li a:hover {
+    text-decoration: line-through;
+    text-align: center;
+    color: #0D3B66;
+}
+/*end footernav */
