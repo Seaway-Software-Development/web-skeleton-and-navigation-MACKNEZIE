@@ -14,8 +14,11 @@ html {
 }
 
 header {
-    background-color: white;
     height: 800px;
+}
+
+main {
+    background-color: #F4D35E;
 }
 
 blockquote h1 {
