@@ -29,7 +29,7 @@ blockquote h1 {
 
 /* Nav */
 nav {
-    background-color: white;
+    background-color: #FAF0CA;
     height: 200px;
 }
 
@@ -59,7 +59,7 @@ nav ul li a:hover {
 /* Footer nav */
 
 .fnav nav {
-    height: 500px;
+    height: 200px;
 }
 
 .fnav nav ul {
