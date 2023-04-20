@@ -13,13 +13,13 @@ html {
     background-color: #FAF0CA;
 }
 
+main {
+    background-color: #FAF0CA;
+}
+
 header {
     background-color: white;
     height: 800px;
-}
-
-main {
-    background-color: #FAF0CA;
 }
 
 blockquote h1 {
