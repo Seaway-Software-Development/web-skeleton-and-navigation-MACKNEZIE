@@ -58,7 +58,6 @@ nav ul li a:hover {
 }
 /* end nav */
 /* Footer nav */
-
 .fnav nav {
     height: 200px;
 }
@@ -86,3 +85,7 @@ nav ul li a:hover {
     color: #0D3B66;
 }
 /*end footernav */
+/*copyright*/
+.copyright {
+    font-size: 120;
+}
