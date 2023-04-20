@@ -17,6 +17,10 @@ main {
     background-color: #FAF0CA;
 }
 
+main p {
+    text-align: center;
+}
+
 header {
     background-color: white;
     height: 800px;
@@ -87,7 +91,7 @@ nav ul li a:hover {
 }
 /*end footernav */
 /*copyright*/
-.copyright {
+.copyright footer p {
     font-size: 125%;
     text-align: center;
 }
