@@ -13,13 +13,21 @@ html {
     background-color: #FAF0CA;
 }
 
+header {
+    height: 800px;
+}
+
 blockquote h1 {
     text-align: center;
     color: #0D3B66;
-    font-size: 150%;
+    font-size: 200%;
 }
 
 /* Nav */
+nav {
+    height: 200px;
+}
+
 nav ul {
     text-decoration: none;
     font-size: 155%;
@@ -44,6 +52,10 @@ nav ul li a:hover {
 }
 /* end nav */
 /* Footer nav */
+
+.fnav nav {
+    height: 500px;
+}
 
 .fnav nav ul {
     text-decoration: none;
